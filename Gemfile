@@ -58,5 +58,5 @@ group :test do
   gem "selenium-webdriver"
 end
 
-gem 'alchemy_cms', '~> 7.4', '>= 7.4.2'
+gem 'alchemy_cms', '~> 7.4'
 gem 'alchemy-devise', '~> 7.4', '>= 7.4.1'
